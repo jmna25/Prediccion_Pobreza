@@ -1,0 +1,46 @@
+string_variables = ['p211c1_t', 
+                    'p500n_t', 
+                    'p600m2_t',
+                    'p201p_t',
+                    'p211c2_t',
+                    'codtarea_t',
+                    'codinfor_t',
+                    'p500a_t',
+                    'p500b_t',
+                    'p500c_t',
+                    'p500d_t',
+                    'p500i_t',
+                    'p23_t',
+                    'p200i_t',
+                    'p600i_t',
+                    'p600d1_t',
+                    'p600m1_t',
+                    'p600a1_t',
+                    'p600d2_t',
+                    'p600a2_t',
+                    'p700i_t',
+                    'p710i_t',
+                    'p800i_t',
+                    'p110i_t',
+                    'sub_conglo~t',
+                    'codccpp_t',
+                    ' nomccpp_t']
+
+no_predictoras_variables = [ 'numper',
+                             'numpanh17',
+                             'year',
+                             'mes_t',
+                             'nconglome_t',
+                             'conglome_t',
+                            'conglome',
+                             'vivienda_t'
+                            'vivienda',
+                            'numpanh',
+                             'hogar_t',
+                             'ubigeo_t'
+                            'fecent_t'
+                            'mieperho_t', 
+                            't', 
+                            't1']
+    
+dependientes_variables = ['pobreza']
